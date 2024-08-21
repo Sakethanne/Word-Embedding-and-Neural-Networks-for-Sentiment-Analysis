@@ -329,7 +329,7 @@ selenium==4.17.2
 Send2Trash==1.8.0
 service-identity==18.1.0
 session-info==1.0.0
-setuptools==68.0.0
+setuptools>=70.0.0
 simpful==2.11.1
 sip==6.6.2
 six==1.16.0
