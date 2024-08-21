@@ -319,7 +319,7 @@ ruamel.yaml @ file:///Users/cbousseau/work/recipes/ci_py311/ruamel.yaml_16779348
 s3fs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_94qu8izf0w/croot/s3fs_1682551484893/work
 sacremoses @ file:///tmp/build/80754af9/sacremoses_1633107328213/work
 scikit-image @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_12rg0hdzgk/croot/scikit-image_1682528304529/work
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 scikit-multilearn==0.2.0
 scipy==1.10.1
 Scrapy @ file:///Users/cbousseau/work/recipes/ci_py311/scrapy_1678002824834/work
