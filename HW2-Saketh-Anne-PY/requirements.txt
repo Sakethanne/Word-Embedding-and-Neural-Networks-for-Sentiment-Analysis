@@ -46,7 +46,7 @@ brotlipy==0.7.0
 bs4==0.0.2
 cachetools==5.3.2
 camelot-py==0.11.0
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.15.1
 chardet==4.0.0
 charset-normalizer==2.0.4
@@ -70,8 +70,8 @@ conda-verify==3.4.2
 constantly==15.1.0
 contourpy==1.0.5
 contractions==0.1.73
-cookiecutter==1.7.3
-cryptography==42.0.4
+cookiecutter==2.1.1
+cryptography==43.0.0
 cssselect==1.1.0
 cycler==0.11.0
 cytoolz==0.12.0
@@ -93,7 +93,7 @@ executing==0.8.3
 fastjsonschema==2.16.2
 filelock==3.9.0
 flake8==6.0.0
-Flask==2.2.2
+Flask==2.2.5
 flatbuffers==23.5.26
 fonttools==4.25.0
 frozenlist==1.3.3
@@ -118,7 +118,7 @@ huggingface-hub==0.15.1
 hvplot==0.8.4
 hyperlink==21.0.0
 idna==3.7
-imagecodecs==2021.8.26
+imagecodecs==2023.9.18
 imageio==2.31.1
 imagesize==1.4.1
 imbalanced-learn==0.10.1
@@ -140,7 +140,7 @@ itsdangerous==2.0.1
 jaraco.classes==3.2.1
 jedi==0.18.1
 jellyfish==0.9.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 jinja2-time==0.2.0
 jmespath==0.10.0
 joblib==1.2.0
@@ -157,11 +157,11 @@ jupyter_core==5.3.0
 jupyter-events==0.6.3
 jupyter-highlight-selected-word==0.2.0
 jupyter-nbextensions-configurator==0.6.3
-jupyter-server==1.23.4
+jupyter-server==2.11.2
 jupyter_server_fileid==0.9.0
 jupyter_server_ydoc==0.8.0
 jupyter-ydoc==0.2.4
-jupyterlab==3.6.3
+jupyterlab==3.6.7
 jupyterlab-pygments==0.1.2
 jupyterlab_server==2.22.0
 jupyterlab-widgets==3.0.5
@@ -234,7 +234,7 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow>=10.3.0
-pip==23.2.1
+pip==23.3
 pkginfo==1.9.6
 platformdirs==2.5.2
 plotly==5.9.0
@@ -305,7 +305,7 @@ qtconsole==5.4.2
 QtPy==2.2.0
 queuelib==1.5.0
 regex==2022.7.9
-requests==2.31.0
+requests==2.32.2
 requests-file==1.5.1
 requests-oauthlib==1.3.1
 requests-toolbelt==1.0.0
@@ -320,7 +320,7 @@ ruamel-yaml-conda==0.17.21
 s3fs==2023.4.0
 sacremoses==0.0.43
 scikit-image==0.20.0
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 scikit-multilearn==0.2.0
 scipy==1.10.1
 scrapy>=2.11.2
@@ -380,7 +380,7 @@ toml==0.10.2
 tomlkit==0.11.1
 toolz==0.12.0
 torch>=2.2.0
-tornado==6.3.2
+tornado==6.4.1
 tqdm==4.66.3
 traitlets==5.7.1
 transformers>=4.38.0
@@ -391,14 +391,14 @@ typing_extensions==4.9.0
 uc-micro-py==1.0.1
 ujson==5.4.0
 Unidecode==1.2.0
-urllib3==1.26.16
+urllib3==1.26.19
 w3lib==1.21.0
 watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.58.0
 websockets==10.4
-Werkzeug==2.2.3
+Werkzeug==3.0.3
 whatthepatch==1.0.2
 wheel==0.38.4
 widgetsnbextension==4.0.5
@@ -415,6 +415,6 @@ yapf==0.31.0
 yarl==1.8.1
 ypy-websocket==0.8.2
 zict==2.2.0
-zipp==3.11.0
+zipp==3.19.1
 zope.interface==5.4.0
 zstandard==0.19.0
