@@ -210,7 +210,7 @@ notebook==6.5.4
 notebook-as-pdf==0.5.0
 notebook_shim==0.2.2
 numba==0.57.0
-numexpr==2.8.4
+numexpr==2.8.5
 numpy==1.24.3
 numpydoc==1.5.0
 oauthlib==3.2.2
