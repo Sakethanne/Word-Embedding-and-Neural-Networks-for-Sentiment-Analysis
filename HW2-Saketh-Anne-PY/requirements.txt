@@ -234,7 +234,7 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow>=10.3.0
-pip==25.2
+pip==25.3
 pkginfo==1.9.6
 platformdirs==2.5.2
 plotly==5.9.0
