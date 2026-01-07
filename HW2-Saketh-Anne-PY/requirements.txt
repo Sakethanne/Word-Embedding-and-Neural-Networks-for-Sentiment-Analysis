@@ -1,7 +1,7 @@
 absl-py==2.0.0
 aiobotocore==2.5.0
 aiofiles==22.1.0
-aiohttp==3.12.14
+aiohttp==3.13.3
 aioitertools==0.7.1
 aiosignal==1.2.0
 aiosqlite==0.18.0
