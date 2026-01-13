@@ -91,7 +91,7 @@ entrypoints==0.4
 et-xmlfile==1.1.0
 executing==0.8.3
 fastjsonschema==2.16.2
-filelock==3.20.1
+filelock==3.20.3
 flake8==6.0.0
 Flask==2.2.5
 flatbuffers==23.5.26
