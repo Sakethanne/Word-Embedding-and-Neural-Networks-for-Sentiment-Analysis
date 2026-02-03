@@ -201,7 +201,7 @@ mypy-extensions==0.4.3
 navigator-updater==0.4.0
 nbclassic==0.5.5
 nbclient==0.5.13
-nbconvert==7.16.6
+nbconvert==7.17.0
 nbformat==5.7.0
 nest-asyncio==1.5.6
 networkx==3.1
@@ -234,7 +234,7 @@ pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow>=10.3.0
-pip==25.3
+pip==26.0
 pkginfo==1.9.6
 platformdirs==2.5.2
 plotly==5.9.0
