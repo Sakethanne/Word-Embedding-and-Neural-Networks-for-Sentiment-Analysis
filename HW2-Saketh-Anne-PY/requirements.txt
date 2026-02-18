@@ -165,7 +165,7 @@ jupyterlab==4.4.8
 jupyterlab-pygments==0.1.2
 jupyterlab_server==2.22.0
 jupyterlab-widgets==3.0.5
-keras==3.13.1
+keras==3.13.2
 keyring==23.13.1
 kiwisolver==1.4.4
 lazy_loader==0.2
