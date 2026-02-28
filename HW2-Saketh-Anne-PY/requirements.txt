@@ -278,7 +278,7 @@ pyobjc-framework-FSEvents==9.0
 pyodbc==4.0.34
 pyOpenSSL==23.2.0
 pyparsing==3.0.9
-pypdf==6.7.3
+pypdf==6.7.4
 PyPDF2==2.12.1
 pyppeteer==1.0.2
 PyQt5-sip==12.11.0
